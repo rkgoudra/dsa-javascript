@@ -1,6 +1,3 @@
-# dsa-javascript
-Data Structures &amp; Algorithms in JavaScript — curated practice by a Lead MERN Engineer revisiting fundamentals with performance, clarity, and real-world relevance.
-
 # Data Structures & Algorithms — JavaScript
 
 This repository contains my personal implementation of **Data Structures and Algorithms using JavaScript**, created while revisiting core CS fundamentals as a **Lead Software / System Engineer (5+ years experience) working primarily with the MERN stack**.
