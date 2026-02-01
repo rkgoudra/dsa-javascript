@@ -42,31 +42,26 @@ Where relevant, trade-offs between approaches are mentioned.
           <li>max_subarray.js</li>
         </ol>
       </li>
-
       <li>strings/
         <ol>
           <li>valid_anagram.js</li>
         </ol>
       </li>
-
       <li>linked-list/
         <ol>
           <li>reverse_linked_list.js</li>
         </ol>
       </li>
-
       <li>stacks-queues/
         <ol>
           <li>valid_parentheses.js</li>
         </ol>
       </li>
-
       <li>trees/
         <ol>
           <li>inorder_traversal.js</li>
         </ol>
       </li>
-
       <li>dynamic-programming/
         <ol>
           <li>climbing_stairs.js</li>
@@ -75,6 +70,7 @@ Where relevant, trade-offs between approaches are mentioned.
     </ol>
   </li>
 </ol>
+
 
 
 
