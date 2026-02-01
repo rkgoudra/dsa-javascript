@@ -98,6 +98,7 @@ Approach:
 Why it works:
 - Reduces brute-force O(n²) search to O(n)
 */
+```
 
 #Tech Stack
 -Language: JavaScript (ES6+)
