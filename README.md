@@ -100,23 +100,23 @@ Why it works:
 */
 ```
 
-##Tech Stack
--Language: JavaScript (ES6+)
--Runtime: Node.js
--Paradigm: Iterative + Recursive where appropriate
+## Tech Stack
+- Language: **JavaScript (ES6+)**
+- Runtime: **Node.js**
+- Paradigm: **Iterative + Recursive** where appropriate
 
-##Who This Repo Is For
--Engineers revisiting DSA after real-world experience
--Backend / Full-stack developers preparing for interviews
--Developers who value clarity over clever hacks
--Anyone learning DSA in JavaScript with a practical mindset
+## Who This Repo Is For
+- Engineers revisiting DSA after real-world experience
+- Backend / Full-stack developers preparing for interviews
+- Developers who value clarity over clever hacks
+- Anyone learning DSA in JavaScript with a practical mindset
 
-##Note
--This is a living repository — solutions may be refactored as understanding improves
--Focus is on fundamentals, not language tricks
--No copy-paste from platforms — each solution is implemented and reviewed personally
+## Note
+- This is a living repository — solutions may be refactored as understanding improves
+- Focus is on fundamentals, not language tricks
+- No copy-paste from platforms — each solution is implemented and reviewed personally
 
-##Contributions
+## Contributions
 -This is a personal learning repository, but discussions and suggestions are welcome.
 
 ##About Me
