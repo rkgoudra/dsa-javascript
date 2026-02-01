@@ -100,29 +100,28 @@ Why it works:
 */
 ```
 
-#Tech Stack
+##Tech Stack
 -Language: JavaScript (ES6+)
 -Runtime: Node.js
 -Paradigm: Iterative + Recursive where appropriate
 
-#Who This Repo Is For
+##Who This Repo Is For
 -Engineers revisiting DSA after real-world experience
 -Backend / Full-stack developers preparing for interviews
 -Developers who value clarity over clever hacks
 -Anyone learning DSA in JavaScript with a practical mindset
 
-#Note
+##Note
 -This is a living repository — solutions may be refactored as understanding improves
 -Focus is on fundamentals, not language tricks
 -No copy-paste from platforms — each solution is implemented and reviewed personally
 
-#Contributions
+##Contributions
 -This is a personal learning repository, but discussions and suggestions are welcome.
 
-#About Me
+##About Me
 **Lead Software Systems Engineer (MERN Stack)**  
 Currently working at a company that builds **AI-powered software, hardware, and intellectual property (IP)** used for designing **complex electronic products**, spanning **chip-level to full-system design**.
-
 Revisiting the basics — because **strong systems are built on strong fundamentals**.
 
 
