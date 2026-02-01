@@ -36,26 +36,49 @@ Where relevant, trade-offs between approaches are mentioned.
 ---
 
 ## 📂 Repository Structure
-dsa-javascript/
-│
-├── arrays/
-│ ├── two_sum.js
-│ ├── max_subarray.js
-│
-├── strings/
-│ ├── valid_anagram.js
-│
-├── linked-list/
-│ ├── reverse_linked_list.js
-│
-├── stacks-queues/
-│ ├── valid_parentheses.js
-│
-├── trees/
-│ ├── inorder_traversal.js
-│
-├── dynamic-programming/
-│ ├── climbing_stairs.js
+<ol>
+  <li>dsa-javascript/
+    <ol>
+      <li>arrays/
+        <ol>
+          <li>two_sum.js</li>
+          <li>max_subarray.js</li>
+        </ol>
+      </li>
+
+      <li>strings/
+        <ol>
+          <li>valid_anagram.js</li>
+        </ol>
+      </li>
+
+      <li>linked-list/
+        <ol>
+          <li>reverse_linked_list.js</li>
+        </ol>
+      </li>
+
+      <li>stacks-queues/
+        <ol>
+          <li>valid_parentheses.js</li>
+        </ol>
+      </li>
+
+      <li>trees/
+        <ol>
+          <li>inorder_traversal.js</li>
+        </ol>
+      </li>
+
+      <li>dynamic-programming/
+        <ol>
+          <li>climbing_stairs.js</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
 
 
 Problems are grouped by **data structure / pattern**, not by platform.
@@ -87,24 +110,5 @@ Why it works:
 
 ---
 
-## 🧠 Architect’s final advice (important)
-
-This README does 3 things silently:
-1. **Establishes seniority** (without bragging)
-2. **Explains intent** (not grinding, refining)
-3. **Frames DSA as engineering, not exams**
-
-If a recruiter or senior engineer opens this repo, the reaction will be:
-> “This person knows what they’re doing.”
-
----
-
-If you want next:
-- A **senior-style commit message convention**
-- A **DSA + System Design pairing roadmap**
-- A **README badge / polish version**
-- Or a **separate “Interview Notes” repo structure**
-
-Say the word — I’ll be ruthless and precise 😌
 
 
