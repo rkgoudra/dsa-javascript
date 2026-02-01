@@ -121,7 +121,8 @@ Why it works:
 
 ## About Me
 **Lead Software Systems Engineer (MERN Stack)**  
-- Currently working at a company that builds **AI-powered software, hardware, and intellectual property (IP)** used for designing **complex electronic products**, spanning **chip-level to full-system design**.- - Revisiting the basics — because **strong systems are built on strong fundamentals**.
+- Currently working at a company that builds **AI-powered software, hardware, and intellectual property (IP)** used for designing **complex electronic products**, spanning **chip-level to full-system design**.
+- Revisiting the basics — because **strong systems are built on strong fundamentals**.
 
 
 
