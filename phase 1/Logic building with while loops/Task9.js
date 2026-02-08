@@ -13,4 +13,4 @@ fact*=i;
 i++;
 }
 
-console.log(`factorial of ${n} is = `+fact);
+console.log(`factorial of ${n} is = `+fact );
