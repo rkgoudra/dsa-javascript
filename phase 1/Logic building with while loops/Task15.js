@@ -8,18 +8,23 @@ number=123
 6/6=1 perfect number
 */
 
-const userNumber=123;
+const userNumber=28;
 
-let sum=1;
+let sum=0, iteratior=1;
 
 
-while(sum<=userNumber/2){
-    let extractNumber=userNumber%10;
-    if(userNumber%sum===0){
-        sum+=extractNumber;
+while(iteratior<userNumber){
+    //let extractNumber=userNumber%10;
+    if(userNumber%iteratior===0){
+        sum+=iteratior;
     }
-    sum++;
+    iteratior++;
 
 }
 
-console.log("The given number is perfect number: "+sum)
+if(userNumber===sum){
+    console.log("The given number is perfect number: "+sum)
+}else{
+    console.log("The given number is not a perfect number: "+sum)
+}
+// console.log("The given number is perfect number: "+sum)
