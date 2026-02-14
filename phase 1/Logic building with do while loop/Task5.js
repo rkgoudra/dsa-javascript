@@ -7,6 +7,6 @@ do{
 number=Math.floor(number/10);
 counter++;
 
-}while(singleNumber>0);
+}while(number>0);
 
 console.log("The number has "+counter+ " digit")
