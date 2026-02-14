@@ -1,0 +1,13 @@
+//Generate and print a number triangle pattern using nested loops.
+function printNumberTriangle(rows) {
+    for (let i = 1; i <= rows; i++) {
+        let row = '';
+        for (let j = 1; j <= i; j++) {
+            row += j + ' ';
+        }
+        console.log(row.trim());
+    }   
+}
+
+// Example usage:
+printNumberTriangle(5); // This will print a number triangle pattern with 5 rows.
